@@ -3,6 +3,9 @@
 This is a demo of the search functionality similar to the application Ombre, and its done using the flutter frame work, this particular repo, contains\
 the code for the search Functionality.
 
+Link to the demo in the driver
+[Google Drive Link](https://drive.google.com/drive/folders/1FPpAXBOVZWJDTv9UxSJDgXfhui4Az9Df?usp=sharing) 👍✔
+
 ## 🔥🔥🔥🔥 This is done using the firestore(for storing the data and Alglia for indexing).🔥🔥🔥🔥
 
 ### 1-> The basic way in which it can be done is storign the prefix of all the words on the firestore and the checking if it contains the searched words.
@@ -26,4 +29,3 @@ the code for the search Functionality.
 ![App Screenshot](https://github.com/guptashubham95a/ombre_search/blob/main/output/4.jpg)
 
 ![App Screenshot](https://github.com/guptashubham95a/ombre_search/blob/main/output/5.jpg)
-
