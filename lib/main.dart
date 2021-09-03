@@ -23,7 +23,7 @@ class MyApp extends StatefulWidget {
 }
 
 class _MyAppState extends State<MyApp> {
-  // ******************* Dummy data to be stored on Firebase *******************
+  // ******************* Dummy data to be stored on Firebase ********************
   List<User> _users = [
     User(
       'Rock | Blues',
