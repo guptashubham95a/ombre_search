@@ -20,6 +20,8 @@ Link to the demo in the driver
 
 ## Screenshots
 
+![App Screenshot](https://github.com/guptashubham95a/ombre_search/blob/main/output/0.jpg)
+![App Screenshot](https://github.com/guptashubham95a/ombre_search/blob/main/output/01.jpg)
 ![App Screenshot](https://github.com/guptashubham95a/ombre_search/blob/main/output/1.jpg)
 
 ![App Screenshot](https://github.com/guptashubham95a/ombre_search/blob/main/output/2.jpg)
@@ -29,3 +31,6 @@ Link to the demo in the driver
 ![App Screenshot](https://github.com/guptashubham95a/ombre_search/blob/main/output/4.jpg)
 
 ![App Screenshot](https://github.com/guptashubham95a/ombre_search/blob/main/output/5.jpg)
+![App Screenshot](https://github.com/guptashubham95a/ombre_search/blob/main/output/6.jpg)
+![App Screenshot](https://github.com/guptashubham95a/ombre_search/blob/main/output/7.jpg)
+![App Screenshot](https://github.com/guptashubham95a/ombre_search/blob/main/output/8.jpg)
