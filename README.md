@@ -34,3 +34,6 @@ Link to the demo in the driver
 ![App Screenshot](https://github.com/guptashubham95a/ombre_search/blob/main/output/6.jpg)
 ![App Screenshot](https://github.com/guptashubham95a/ombre_search/blob/main/output/7.jpg)
 ![App Screenshot](https://github.com/guptashubham95a/ombre_search/blob/main/output/8.jpg)
+![App Screenshot](https://github.com/guptashubham95a/ombre_search/blob/main/output/9.jpg)
+![App Screenshot](https://github.com/guptashubham95a/ombre_search/blob/main/output/10.jpg)
+![App Screenshot](https://github.com/guptashubham95a/ombre_search/blob/main/output/11.jpg)
